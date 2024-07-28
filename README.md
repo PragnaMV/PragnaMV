@@ -1,7 +1,8 @@
 # Hi 👋, I'm Pragna M V
 
 A dedicated and proactive AI/ML Engineer Student, committed to utilizing my programming skills in Python and Java to develop innovative solutions and contribute effectively to projects and collaborations.
-<img align="right" alt="Coding" width="400" ![Girl GIF](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)">
+![Girl Coding](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
+
 
 ---
 
