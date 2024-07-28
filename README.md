@@ -37,24 +37,12 @@ A dedicated and proactive AI/ML Engineer Student, committed to utilizing my prog
 
 ---
 
-### 🏆 Achievements
-- 🎓 Served as student trainer for a Python workshop
-- 🎓 Currently serving as a Coordinator for the Tech-Talk Series
-
 ### 📈 My GitHub Stats
 ![Pragna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pragnamv&show_icons=true&theme=radical)
 
 ### 📝 Projects
 - [Performance and Result Analysis](https://github.com/pragna-m-v/result-analysis): Streamlined the process of result analysis by automating data extraction from PDFs, calculating CGPAs, and identifying the top achievers from complex datasets.
 - [Handwritten Digit Recognizer](https://github.com/pragna-m-v/digit-recognizer): Developed a digit recognition model using the MNIST dataset, incorporating data augmentation and regularization techniques to predict digits.
-
-### 📚 Education
-- **Bachelor of Engineering - CS (AIML)**
-  - GSSS Institute of Engineering and Technology for Women, Mysuru
-
-### 🎓 Certifications
-- Appreciation letter for serving as a student trainer for Python workshop
-- IBM Skill Build AIML internship: Comprehensive education and hands-on experience in AI and ML, including prediction modeling and chatbot development
 
 ### ⚡ Interests
 - 🖥️ Coding
