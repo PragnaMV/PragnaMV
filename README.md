@@ -40,8 +40,8 @@ A dedicated and proactive AI/ML Engineer Student, committed to utilizing my prog
 ### 📈 My GitHub Stats
 ![Pragna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pragnamv&show_icons=true&theme=radical)
 
-### 📝 Projects
-- [Performance and Result Analysis](https://github.com/pragna-m-v/result-analysis): Streamlined the process of result analysis by automating data extraction from PDFs, calculating CGPAs, and identifying the top achievers from complex datasets.
+### 📝 Unique Projects
+- [Performance and Result Analysis](https://github.com/PragnaMV/Result_Analysis.git): Streamlined the process of result analysis by automating data extraction from PDFs, calculating CGPAs, and identifying the top achievers from complex datasets.
 - [Handwritten Digit Recognizer](https://github.com/PragnaMV/Handwritten_digit_recognizer.git): Developed a digit recognition model using the MNIST dataset, incorporating data augmentation and regularization techniques to predict digits.
 
 ### ⚡ Interests
