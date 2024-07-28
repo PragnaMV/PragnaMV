@@ -2,7 +2,6 @@
 
 A dedicated and proactive AI/ML Engineer Student, committed to utilizing my programming skills in Python and Java to develop innovative solutions and contribute effectively to projects and collaborations.
 ![Girl Coding](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
-## 🚀 Some Tools I Have Used and Learned
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
