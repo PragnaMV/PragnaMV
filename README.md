@@ -25,7 +25,7 @@ A dedicated and proactive AI/ML Engineer student, committed to leveraging my ski
 ## 🌱 About Me
 
 - 💬 Ask me about:  
-  🔹 **Python development** — NumPy, Pandas, Matplotlib, Seaborn, PDF processing, MySQL integration, Scikit-learn (ML models), TensorFlow (CNN, ANN, Deep Learning)  
+  🔹 **Python development** — NumPy, Pandas, Matplotlib, Seaborn, PDF processing, MySQL integration, Scikit-learn (ML models),            TensorFlow (CNN, ANN, Deep Learning)  
   🔹 **Java development** — OOP concepts and Data Structures & Algorithms (DSA)  
   🔹 **Web development** — HTML, CSS, PHP, and MySQL
 
@@ -38,13 +38,24 @@ A dedicated and proactive AI/ML Engineer student, committed to leveraging my ski
 
 ---
 
+
 ## 🛠 Languages and Tools
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-149ECA?logo=matplotlib&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-149ECA?logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/-Seaborn-6A5ACD?logo=seaborn&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=android-studio&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white)
 
 ---
 
