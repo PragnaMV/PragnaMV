@@ -1,6 +1,6 @@
 # Hi 👋, I'm Pragna M V
 
-An enthusiastic and self-driven AI/ML graduate passionate about solving real-world problems through code. I specialize in building intelligent systems using Python and Java — with one of my proudest achievements being a **copyrighted VTU Result Analysis System** that automated CGPA/SGPA calculations from PDFs for academic institutions.
+A dedicated and proactive AI/ML Engineer student, committed to leveraging my skills in Python and Java to develop innovative tech solutions and contribute meaningfully to collaborative projects.
 
 ![Girl Coding](https://thumbs.dreamstime.com/b/girl-coding-web-page-girl-coding-web-page-listening-to-music-night-253185016.jpg)
 
@@ -24,8 +24,6 @@ An enthusiastic and self-driven AI/ML graduate passionate about solving real-wor
 
 ## 🌱 About Me
 
-- 🎓 AI/ML graduate with a strong foundation in software development, data processing, and intelligent system design  
-- 🏆 Co-developer of a **copyrighted VTU Result Analysis System**  
 - 💬 Ask me about:  
   🔹 **Python development** — NumPy, Pandas, Matplotlib, Seaborn, PDF processing, MySQL integration, Scikit-learn (ML models), TensorFlow (CNN, ANN, Deep Learning)  
   🔹 **Java development** — OOP concepts and Data Structures & Algorithms (DSA)  
@@ -76,3 +74,4 @@ An enthusiastic and self-driven AI/ML graduate passionate about solving real-wor
 - 📊 Data Science  
 - 🖥️ Python Development  
 - ☕ Java Programming
+
