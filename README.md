@@ -70,9 +70,6 @@ A dedicated and proactive AI/ML Engineer student, committed to leveraging my ski
 - [VTU Result Analysis System with GUI](https://github.com/PragnaMV/VTU-Result-Analysis-System-with-GUI.git)  
   Developed a full-stack tool to automate data extraction from PDFs, calculate CGPA/SGPA, and identify top achievers across departments.
 
-- [Voice Assistant](https://github.com/PragnaMV/Voice-Assistant.git)  
-  A Python-based voice-controlled assistant capable of executing system-level tasks like playing music and opening apps using speech input.
-
 - [Handwritten Digit Recognizer](https://github.com/PragnaMV/Handwritten_digit_recognizer.git)  
   Built a CNN model using the MNIST dataset with Keras and TensorFlow, including data augmentation and regularization for better accuracy.
 
