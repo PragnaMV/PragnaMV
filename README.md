@@ -21,7 +21,11 @@ A dedicated and proactive AI/ML Engineer Student, committed to utilizing my prog
 ---
 
 ### 🌱 About Me
-- 💬 Ask me about AI, ML, Python, Java, and data visualization with Matplotlib
+- 💬 Ask me about
+🔹 Python development using NumPy, Pandas, Matplotlib, Seaborn, PDF processing, MySQL integration, Scikit-learn (ML models), TensorFlow (CNN, ANN, Deep Learning)
+🔹 Java development understanding of Object-Oriented Programming (OOPs) and Data Structures & Algorithms (DSA)
+🔹 Web development using HTML, CSS, PHP, and MySQL
+
 - 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-khushipragna21@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:khushipragna21@gmail.com)](mailto:khushipragna21@gmail.com)
 
 ### 🚀 Connect with Me
@@ -45,7 +49,8 @@ A dedicated and proactive AI/ML Engineer Student, committed to utilizing my prog
 - [Handwritten Digit Recognizer](https://github.com/PragnaMV/Handwritten_digit_recognizer.git): Developed a digit recognition model using the MNIST dataset, incorporating data augmentation and regularization techniques to predict digits.
 
 ### ⚡ Interests
-- 🖥️ Coding
-- 🤖 AI/ML
+- 🤖 Artificial Intelligence
+- 🧑‍💻 Machine Learning
 - 📊 Data Science
+- 🖥️ Python
 - ☕ JAVA
