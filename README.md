@@ -1,37 +1,46 @@
 # Hi 👋, I'm Pragna M V
 
-A dedicated and proactive AI/ML Engineer Student, committed to utilizing my programming skills in Python and Java to develop innovative solutions and contribute effectively to projects and collaborations.
-
+An enthusiastic and self-driven AI/ML graduate passionate about solving real-world problems through code. I specialize in building intelligent systems using Python and Java — with one of my proudest achievements being a **copyrighted VTU Result Analysis System** that automated CGPA/SGPA calculations from PDFs for academic institutions.
 
 ![Girl Coding](https://thumbs.dreamstime.com/b/girl-coding-web-page-girl-coding-web-page-listening-to-music-night-253185016.jpg)
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+
+---
+
+## 🚀 Some Tools I Have Used and Learned
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="intellij" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="android studio" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="jupyter" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="kotlin" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" alt="keras" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45"/>
 </p>
 
 ---
 
-### 🌱 About Me
-- 💬 Ask me about
-🔹 Python development using NumPy, Pandas, Matplotlib, Seaborn, PDF processing, MySQL integration, Scikit-learn (ML models), TensorFlow (CNN, ANN, Deep Learning)
-🔹 Java development understanding of Object-Oriented Programming (OOPs) and Data Structures & Algorithms (DSA)
-🔹 Web development using HTML, CSS, PHP, and MySQL
+## 🌱 About Me
 
-- 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-khushipragna21@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:khushipragna21@gmail.com)](mailto:khushipragna21@gmail.com)
+- 🎓 AI/ML graduate with a strong foundation in software development, data processing, and intelligent system design  
+- 🏆 Co-developer of a **copyrighted VTU Result Analysis System**  
+- 💬 Ask me about:  
+  🔹 **Python development** — NumPy, Pandas, Matplotlib, Seaborn, PDF processing, MySQL integration, Scikit-learn (ML models), TensorFlow (CNN, ANN, Deep Learning)  
+  🔹 **Java development** — OOP concepts and Data Structures & Algorithms (DSA)  
+  🔹 **Web development** — HTML, CSS, PHP, and MySQL
 
-### 🚀 Connect with Me
-[![LinkedIn Badge](https://img.shields.io/badge/-pragna-m-v-14ab74261-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/pragna-m-v-14ab74261)](https://linkedin.com/in/pragna-m-v-14ab74261)
+- 📫 Reach me at: [![Gmail Badge](https://img.shields.io/badge/-khushipragna21@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:khushipragna21@gmail.com)
 
-### 🛠 Languages and Tools
+---
+
+## 🚀 Connect with Me  
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/pragna-m-v-14ab74261)
+
+---
+
+## 🛠 Languages and Tools
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-149ECA?logo=matplotlib&logoColor=white)
@@ -41,16 +50,29 @@ A dedicated and proactive AI/ML Engineer Student, committed to utilizing my prog
 
 ---
 
-### 📈 My GitHub Stats
-![Pragna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pragnamv&show_icons=true&theme=radical)
+## 📈 GitHub Stats
 
-### 📝 Unique Projects
-- [VTU Result Analysis System with GUI](https://github.com/PragnaMV/VTU-Result-Analysis-System-with-GUI.git): Streamlined the process of result analysis by automating data extraction from PDFs, calculating CGPAs, and identifying the top achievers from complex datasets.
-- [Handwritten Digit Recognizer](https://github.com/PragnaMV/Handwritten_digit_recognizer.git): Developed a digit recognition model using the MNIST dataset, incorporating data augmentation and regularization techniques to predict digits.
+![Pragna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PragnaMV&show_icons=true&theme=radical)
 
-### ⚡ Interests
-- 🤖 Artificial Intelligence
-- 🧑‍💻 Machine Learning
-- 📊 Data Science
-- 🖥️ Python
-- ☕ JAVA
+---
+
+## 📝 Unique Projects
+
+- [VTU Result Analysis System with GUI](https://github.com/PragnaMV/VTU-Result-Analysis-System-with-GUI.git)  
+  Developed a full-stack tool to automate data extraction from PDFs, calculate CGPA/SGPA, and identify top achievers across departments.
+
+- [Voice Assistant](https://github.com/PragnaMV/Voice-Assistant.git)  
+  A Python-based voice-controlled assistant capable of executing system-level tasks like playing music and opening apps using speech input.
+
+- [Handwritten Digit Recognizer](https://github.com/PragnaMV/Handwritten_digit_recognizer.git)  
+  Built a CNN model using the MNIST dataset with Keras and TensorFlow, including data augmentation and regularization for better accuracy.
+
+---
+
+## ⚡ Interests
+
+- 🤖 Artificial Intelligence  
+- 🧑‍💻 Machine Learning  
+- 📊 Data Science  
+- 🖥️ Python Development  
+- ☕ Java Programming
